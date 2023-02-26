@@ -1,7 +1,7 @@
 # Wisdom-album
 A website that uses AI to categorize images
 
-前端
+# 前端
   vue、html、css、javascript
   需要建立一个首页进行登录、
   向后端发起请求验证数据
@@ -16,7 +16,7 @@ A website that uses AI to categorize images
   用户可以修改文件夹名称并转移图片到其他文件夹，响应式地动态呈现图片的修改
   用户也可以在其中删除图片、下载图片
   
-后端
+# 后端
   python、tensorflow、mysql
   数据库与前端之间可以通过axios进行通信，获取前端表单的输入数据
   通过sql语句查询是否在数据库内验证登录
@@ -26,7 +26,7 @@ A website that uses AI to categorize images
   通过sql语句把图片地址传给前端
   响应式地动态呈现图片的修改
 
-数据库
+# 数据库
 
   用户表：  
   用户ID、用户名、密码、头像、手机号
