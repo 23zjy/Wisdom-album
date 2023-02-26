@@ -2,7 +2,7 @@
 A website that uses AI to categorize images
 
 # 前端
-  vue、html、css、javascript  
+  vue、html、css、javascript  <br><br>
   需要建立一个首页进行登录、<br>  
   向后端发起请求验证数据<br>
   在登陆表单上实现与注册页的相互跳转，表单可通过正则表达式或其他接口验证数据的规范性<br>
@@ -17,7 +17,7 @@ A website that uses AI to categorize images
   用户也可以在其中删除图片、下载图片<br>
   
 # 后端
-  python、tensorflow、mysql<br>
+  python、tensorflow、mysql<br><br>
   数据库与前端之间可以通过axios进行通信，获取前端表单的输入数据<br>
   通过sql语句查询是否在数据库内验证登录<br>
   注册用户将用户的用户名、密码存入数据库，ID自累加<br>
