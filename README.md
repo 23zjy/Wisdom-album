@@ -3,7 +3,7 @@ A website that uses AI to categorize images
 
 # 前端
   vue、html、css、javascript  <br><br>
-  需要建立一个首页进行登录、<br>  
+  需要建立一个首页进行登录、<br>
   向后端发起请求验证数据<br>
   在登陆表单上实现与注册页的相互跳转，表单可通过正则表达式或其他接口验证数据的规范性<br>
   注册成功后直接跳转到登录页登录<br>
